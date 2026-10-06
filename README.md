@@ -11,4 +11,4 @@ SQL (T-SQL) · Tableau · Excel · Python
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/dina-mohamed-211742437) 
-- [Email](mailto:dinamohamed00200@gmail.com)
+- Email: dinamohamed00200@gmail.com
