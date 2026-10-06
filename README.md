@@ -10,5 +10,5 @@ I'm Dina, currently learning data analysis. I work with SQL Server and Tableau, 
 SQL (T-SQL) · Tableau · Excel · Python
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/dina-mohamed-211742437)
+- [LinkedIn](https://www.linkedin.com/in/dina-mohamed-211742437) 
 - [Email](mailto:dinamohamed00200@gmail.com)
